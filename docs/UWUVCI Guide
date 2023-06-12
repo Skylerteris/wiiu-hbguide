@@ -1,0 +1,30 @@
+# UWUVCI Set-Up
+
+!> Note, the file otp.bin will be needed from your Wii U nand dump.
+
+!> Most N64 Rom Hacks, All SNES Co-Processor games, and DSi Enchanced games will NOT work.
+
+# Downloading UWUVCI and .NET Core/Framework
+
+[UWUVCI](https://github.com/stuff-by-3-random-dudes/UWUVCI-AIO-WPF/releases/download/v3.99.9.1/UWUVCI_INSTALLER.exe)
+[.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
+[Windows .Net Core](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
+[Linux .Net Core](https://learn.microsoft.com/dotnet/core/install/linux?WT.mc_id=dotnet-35129-website)
+[macOS .Net Core](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.426-macos-x64-installer)
+
+# Making the Game
+
+1. Find a base game (Ex. Mario Kart DS, Super Mario 64, etc..)
+2. When a base game is selected, find a rom path (find your legally dumped rom and select it)
+3.(GC only) If there is more than one disk, make sure to select it.
+4. Once selected, Press "Enter CKey" and find your otp.bin file from your Wii U nand dump and select it.
+5. Click "Enter TKey" (you'll have to find your own keys as it would be illegal for us to provide) and click enter.
+6. After both the TKey and CKey have put in, you can download the base.
+7. (Wii Only) The "Wii U ANCAST KEY" is required, The otp.bin file is required again.
+8. Click "WUP Installable", after it is done downloading, drag and drop the folder in Wii U sd card named "install".
+9. Thats it! have fun playing your VC injects!
+
+
+
+
+
